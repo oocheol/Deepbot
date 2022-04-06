@@ -26,6 +26,7 @@ def chatting():
 
     if "안녕" in message :
         response = "안녕하십니까. 식사는 하셨나요?"
+
     
     # elif "날씨" in message :
     #     # response = openapi.get_weather(today)
